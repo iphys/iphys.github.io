@@ -31,4 +31,6 @@ Useful information about GitHub pages and Jekyll
 
 - [Adding content to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
 
+- [Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) in jekyllrb.com.
+
 _Updated: 2022_
