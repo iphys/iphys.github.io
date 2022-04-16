@@ -9,4 +9,7 @@ title: Home
 
 Welcome to Random Thoughts by iphys.
 
+[My blog posts](https://iphys.github.io/blog/) are part of this site.
+Its source is maintained in another repository.
+
 _Updated: 2022_
