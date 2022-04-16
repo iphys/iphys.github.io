@@ -4,7 +4,7 @@
 
 layout: home
 ---
-## Welcome 2
+## Welcome 3
 
 Welcome to Random Thoughts by iphys.
 
