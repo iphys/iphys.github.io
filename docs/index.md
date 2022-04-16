@@ -5,15 +5,18 @@
 layout: home
 title: Home
 ---
-## Welcome 4
+## Welcome Welcome
 
 Welcome to Random Thoughts by iphys.
 
-URL of this site:
+### URL of This Site
 
 - https://iphys.github.io/
 
-Repository:
+The `baseurl` directive in `_config.yml` in the source repository
+should be an empty string `""`.
+
+### Source Repository
 
 - https://github.com/iphys/iphys.github.io/
 
