@@ -32,7 +32,7 @@ github_username: iphys
 # Build settings
 markdown: kramdown
 
-#theme: minima
+theme: minima
 
 minima:
   skin: dark
